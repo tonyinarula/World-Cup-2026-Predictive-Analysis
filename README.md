@@ -4,7 +4,7 @@
 - Kaggle dataset
 - jfjelstul github link
 - For countries not included in the Kaggle dataset (Angola, Togo, Trinidad and Tobago, Honduras), data was manually entered and found from the following sources:
-  - pre-tournament FIFA rankings and points: [https://www.livefootballranking.com/historical](https://inside.fifa.com/fifa-world-ranking/men?dateId=id145)
+  - pre-tournament FIFA rankings and points: https://inside.fifa.com/fifa-world-ranking/men?dateId=id145
   - goals scored last 4y:
   - goals conceded last 4y:
   - wins last 4y:
