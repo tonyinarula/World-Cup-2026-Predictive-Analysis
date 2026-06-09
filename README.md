@@ -33,7 +33,10 @@ Python (numpy, pandas, os, scikit-learn, fifacodes, Counter)
 ## Data Cleaning
 I cleaned each table of the Kaggle dataset and jfjelstul dataset by filtering to only men's World Cups from the last 6 tournaments, and filtering on the features I would use in my analysis. 
 Additional feature engineering includes:
-- 
+- Average squad age at time of tournament
+- Difference between home and away sides' avg squad age
+- Difference between home and away sides' FIFA points
+- Difference between home and away sides' FIFA ranking
 
 ## Modeling
 ### Target Variable
