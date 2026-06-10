@@ -1,5 +1,7 @@
 # World-Cup-2026-Predictive-Analysis
 
+![Winning chances chart for top 10 teams](images/winning_chances.png)
+
 ## Overview
 This project uses data analytics, machine learning, and the Monte Carlo prediction technique to determine potential winners of the 2026 World Cup hosted by the US, Canada, and Mexico. 
 
